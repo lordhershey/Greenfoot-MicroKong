@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BackGround
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BackGround\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BackGround()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BackGround.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ resetGame()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ winTheGame()
+comment5.params=x\ y
+comment5.target=boolean\ onLadder(int,\ int)
+comment6.params=x\ y
+comment6.target=int\ whereIsFloor(int,\ int)
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WinLoseActor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WinLoseActor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=WinLoseActor()
+comment2.params=
+comment2.target=void\ setWin()
+comment3.params=
+comment3.target=void\ setLose()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ WinLoseActor\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

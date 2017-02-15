@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PlayerActor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerActor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PlayerActor()
+comment10.params=world
+comment10.target=void\ addedToWorld(greenfoot.World)
+comment11.params=x\ y
+comment11.target=void\ setFoot(int,\ int)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ kill()
+comment4.params=
+comment4.target=boolean\ isAlive()
+comment5.params=
+comment5.target=boolean\ isDead()
+comment6.params=
+comment6.target=boolean\ isDying()
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Act\ -\ do\ whatever\ the\ PlayerActor\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment8.params=
+comment8.target=void\ processStandWalkAction()
+comment9.params=
+comment9.target=void\ processClimbingAction()
+numComments=12
